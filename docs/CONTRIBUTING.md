@@ -75,3 +75,11 @@ your friend. This means:
   - linear history
   - commit messages matching what the commit does
   - no "experimental" commits + their revert commits
+
+### Other considerations
+
+[EIPs (EPM Improvement Proposals)](./eips/index.md) might also be important
+to decide if some contributions are acceptable or not.
+
+It's a good idea to familiarize yourself with these documents before start
+contributing.
